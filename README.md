@@ -6,6 +6,6 @@ I am here to share with you a project that I have been developing for weeks but 
 
 <b>Login Page:</b>
 ![loginpagee](https://user-images.githubusercontent.com/92602270/226523963-d2a9e1a6-80b1-45a4-91ba-e6d074d35df4.png)
-Home Page:
+<b style="font-size:50px;">Home Page:<b>
 ![homepage](https://user-images.githubusercontent.com/92602270/226523985-44ba1310-aea0-4e9e-88fc-4543eab90b4c.png)
 
