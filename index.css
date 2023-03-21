@@ -1,0 +1,78 @@
+/* Formun ana kutusu */
+form {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #f6f6f6;
+    padding: 30px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  /* Form alanları */
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 25px;
+    background-color: #ffffff;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+  }
+  
+  /* Form alanlarına odaklandığında animasyon */
+  input[type="text"]:focus,
+  input[type="password"]:focus {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Gönder düğmesi */
+  input[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 25px;
+    background-color: #09d3e5;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  /* Gönder düğmesi animasyonu */
+  input[type="submit"]:hover {
+    background-color: #09d3e5;
+  }
+  
+  /* Formu ortalamak için kutunun ortasına yerleştirme */
+  .form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+  }
+  
+  .form-wrapper img {
+    max-width: 250px;
+    margin-bottom: 30px;
+  }
+  
